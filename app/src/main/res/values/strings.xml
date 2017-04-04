@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My First App</string>
+    <string name="button">Accelerometer</string>
+    <string name="button2">Compass</string>
+    <string name="textView2">0</string>
+    <string name="title_activity_display_accelometer">DisplayAccelometerActivity</string>
+
+
 </resources>
